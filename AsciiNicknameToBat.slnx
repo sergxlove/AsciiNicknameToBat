@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AsciiNicknameToBat.Core/AsciiNicknameToBat.Core.csproj" />
+  <Project Path="AsciiNicknameToBat/AsciiNicknameToBat.csproj" />
+</Solution>
