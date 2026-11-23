@@ -22,3 +22,7 @@ Steps:
 - Download the latest .zip archive.
 - Extract the archive to any folder of your choice.
 - Open the extracted folder and double-click AsciiNicknameToBat.exe to launch the application.
+
+## Preview
+
+![image](https://github.com/sergxlove/AsciiNicknameToBat/blob/master/res/prev.png)
