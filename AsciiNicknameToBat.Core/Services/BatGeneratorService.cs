@@ -59,7 +59,6 @@ namespace AsciiNicknameToBat.Core
             }
 
             batContent.AppendLine("echo.");
-            batContent.AppendLine("pause");
 
             string fileName = $"{text.ToLower()}.bat";
             string fullPath = Path.Combine(Directory.GetCurrentDirectory(), fileName);
